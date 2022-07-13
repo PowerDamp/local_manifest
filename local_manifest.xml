@@ -8,7 +8,7 @@
 
   <project path="device/xiaomi/beryllium" name="beryllium" remote="PowerDamp" revision="EVO" />
   
-  <project path="device/xiaomi/sdm845-common" name="common" remote="PowerDamp" revision="test-stable" />
+  <project path="device/xiaomi/sdm845-common" name="common" remote="PowerDamp" revision="SL" />
            
   <project path="vendor/xiaomi" name="vendor" remote="PowerDamp" revision="12.1" />
 
