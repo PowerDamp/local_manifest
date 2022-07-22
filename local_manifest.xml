@@ -12,9 +12,5 @@
   <project path="vendor/xiaomi" name="vendor" remote="PowerDamp" revision="12l" />
 
   <project path="kernel/xiaomi/sdm845" name="kernel" remote="PowerDamp" revision="12.1-silver" />
-  
-    <!-- Toolchain -->
-
-  <project path="prebuilts/clang/host/linux-x86/clang-proton" name="proton-clang" remote="PowerDamp" revision="master" clone-depth="1" />
 
 </manifest>
