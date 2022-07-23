@@ -12,5 +12,7 @@
   <project path="vendor/xiaomi" name="vendor" remote="PowerDamp" revision="12l" />
 
   <project path="kernel/xiaomi/sdm845" name="kernel" remote="PowerDamp" revision="12.1-silver" />
+  
+  <project path="hardware/xiaomi" name="hardware" remote="PowerDamp" revision="12l" />
 
 </manifest>
