@@ -5,9 +5,9 @@
 
      <!--Trees-->
 
-  <project path="device/xiaomi/beryllium" name="beryllium" remote="PowerDamp" revision="cherish" />
+  <project path="device/xiaomi/beryllium" name="beryllium" remote="PowerDamp" revision="pe" />
   
-  <project path="device/xiaomi/sdm845-common" name="common" remote="PowerDamp" revision="cherish" />
+  <project path="device/xiaomi/sdm845-common" name="common" remote="PowerDamp" revision="pe" />
            
   <project path="vendor/xiaomi" name="vendor" remote="PowerDamp" revision="12l" />
 
