@@ -14,5 +14,9 @@
   <project path="kernel/xiaomi/sdm845" name="kernel" remote="PowerDamp" revision="12.1-silver" />
   
   <project path="hardware/xiaomi" name="hardware" remote="PowerDamp" revision="12l" />
+  
+  <remove-project name="hardware_qcom-caf_sdm845_media" />
+  
+  <project path="hardware/qcom-caf/sdm845/media" name="qcom-caf-media" remote="PowerDamp" revision="12l" />
 
 </manifest>
